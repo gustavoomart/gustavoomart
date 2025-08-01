@@ -1,6 +1,6 @@
 
 ## 🌐 Socials:
-[![Site](https://img.shields.io/badge/%F0%9F%8C%90%20Acesse%20o%20site-E4080A?style=for-the-badge)](https://www.gustavomartins.run.place)](https://www.gustavomartins.run.place)
+[![Site](https://img.shields.io/badge/🌐%20Acesse%20o%20site-E4080A?style=for-the-badge)](https://www.gustavomartins.run.place)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gustavoomartinn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gustavo-martins-xlx/) 
 
 # 💻 Tech Stack:
